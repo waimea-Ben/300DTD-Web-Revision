@@ -1,0 +1,18 @@
+#Hero {
+    background-color: var(--pico-primary-background);
+    min-height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Hero h1{
+    color: var(--pico-color);
+    font-size: 5rem;
+    text-align: center;
+}
+
+#likes div{
+    display: flex;
+    gap: 1rem;
+}
